@@ -1,0 +1,119 @@
+body{
+    font: Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+#myForm {
+    width:50%;
+    float: left;
+}
+
+#text-content {
+    font-weight: bold;
+}
+
+#result {   
+    font-weight: bold;
+    float: left;
+    width: 50%;    
+}
+
+form{
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+div + div {
+    margin-top: 1em;
+}
+
+label span {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+}
+
+input, textarea{
+    font: 1em sans-serif;
+    width:250px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+input[type=radio]{
+    width:auto;
+    border: none;
+  
+}
+
+button{
+    margin: 20px 0 0 124px;
+}
+
+label{
+    position: relative;
+}
+
+label em {
+    position:absolute;
+    right: 5px;
+    top: 20px;
+    
+}
+
+#errTxt {
+    color: red;
+    font-style: italic;
+}
+
+#btn {
+    clear:both;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
